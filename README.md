@@ -4,7 +4,7 @@ Many changes, including bug fixes and documentation improvements can be
 implemented and reviewed via the normal GitHub pull request workflow.
 
 Some changes though are "substantial", and we ask that these be put
-through a bit of a design process and produce a consensus among the React
+through a bit of a design process and produce a consensus among the ReactX
 core team.
 
 The "RFC" (request for comments) process is intended to provide a
@@ -12,7 +12,7 @@ consistent and controlled path for new features to enter the project.
 
 [Active RFC List](https://github.com/reactx/rfcs/pulls)
 
-React is still **actively developing** this process, and it will still change as
+ReactX is still **actively developing** this process, and it will still change as
 more features are implemented and the community settles on specific approaches
 to feature development.
 
@@ -31,7 +31,7 @@ from an RFC are:
    - The removal of features that already shipped as part of the release
      channel.
    - The introduction of new idiomatic usage or conventions, even if they
-     do not include code changes to React itself.
+     do not include code changes to Reactx itself.
 
 The RFC process is a great opportunity to get more eyeballs on your proposal
 before it becomes a part of a released version of ReactX. Quite often, even
@@ -73,8 +73,8 @@ to revise it in response.
 are much more likely to make progress than those that don't receive any
 comments.
 * Eventually, the team will decide whether the RFC is a candidate
-for inclusion in React.
-* RFCs that are candidates for inclusion in React will enter a "final comment
+for inclusion in ReactX.
+* RFCs that are candidates for inclusion in Reactx will enter a "final comment
 period" lasting 3 calendar days. The beginning of this period will be signaled with a
 comment and tag on the RFCs pull request.
 * An RFC can be modified based upon feedback from the team and community.
